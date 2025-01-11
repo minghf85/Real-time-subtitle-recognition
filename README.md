@@ -10,7 +10,7 @@ A real-time speech-to-text and translation application with a modern, translucen
 - Adjustable font size, border color, and width
 - Drag and resize functionality
 - Settings panel for UI customization
-- Real-time translation using Ollama qwen2.5
+- Real-time translation using Ollama
 
 ## Requirements
 
@@ -19,6 +19,7 @@ A real-time speech-to-text and translation application with a modern, translucen
 - PyAudio
 - RealtimeSTT
 - Ollama
+- VoiceMeeter(recognize the computer loudspeaker)
 
 ## Installation
 
@@ -42,6 +43,7 @@ python STTgui.py
    - Modify border width
 4. Click and drag the window to reposition it
 5. Use the bottom-right corner to resize the window
+6. ![主界面](./assets/主界面.png)
 
 ## Configuration
 
